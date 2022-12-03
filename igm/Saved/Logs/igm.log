@@ -1400,3 +1400,78 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.12.03-01.52.38:801][207]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.03-01.52.38:801][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2022.12.03-01.52.38:801][207]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.12.03-01.53.29:029][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.12.03-01.53.29:050][606]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap106644FF41DE97664480B8901FAEA208.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.12.03-01.53.29:865][606]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap_BuiltData8F421C3F4F745687B16415A622D5A89F.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.12.03-01.53.29:885][606]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-01.53.29:885][606]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.12.03-01.53.29:885][606]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.12.03-01.53.30:192][643]LogTemp: Repeating last play command: Selected Viewport
+[2022.12.03-01.53.30:196][643]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.03-01.53.30:196][643]PIE: New page: PIE session: FirstPersonExampleMap (2 Dec 2022, 09:53:30)
+[2022.12.03-01.53.30:218][643]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.12.03-01.53.30:233][643]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014873s)
+[2022.12.03-01.53.30:234][643]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.12.03-01.53.30:234][643]LogPlayLevel: PIE: World Init took: (0.001337s)
+[2022.12.03-01.53.30:234][643]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.016388s)
+[2022.12.03-01.53.30:241][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.03-01.53.30:241][643]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.12.03-01.53.30:241][643]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.03-01.53.30:241][643]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.03-01.53.30:242][643]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.03-01.53.30:242][643]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.03-01.53.30:242][643]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.03-01.53.30:242][643]LogAudioMixer: Display: Initializing audio mixer.
+[2022.12.03-01.53.30:246][643]LogAudioMixer: Display: 0: FrontLeft
+[2022.12.03-01.53.30:246][643]LogAudioMixer: Display: 1: FrontRight
+[2022.12.03-01.53.30:278][643]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.12.03-01.53.30:278][643]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.03-01.53.30:278][643]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.03-01.53.30:279][643]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.03-01.53.30:279][643]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.12.03-01.53.30:279][643]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.12.03-01.53.30:279][643]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.12.03-01.53.30:280][643]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.12.03-01.53.30:280][643]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.12.03-01.53.30:280][643]LogInit: FAudioDevice initialized.
+[2022.12.03-01.53.30:280][643]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonExampleMap'.
+[2022.12.03-01.53.30:290][643]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.12.03-01.53.30:292][643]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.12.02-17.53.30
+[2022.12.03-01.53.30:293][643]LogWorld: Bringing up level for play took: 0.001675
+[2022.12.03-01.53.30:293][643]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.12.03-01.53.30:295][643]PIE: Server logged in
+[2022.12.03-01.53.30:295][643]PIE: Play in editor total start time 0.1 seconds.
+[2022.12.03-01.53.42:868][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-01.53.42:868][130]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.12.03-01.53.42:868][130]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.03-01.53.42:869][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-01.53.42:875][130]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.03-01.53.42:888][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.03-01.53.42:892][130]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.03-01.53.42:893][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.03-01.53.42:894][130]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.12.03-01.53.42:900][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.12.03-01.53.42:950][132]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.03-01.53.43:355][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.03-01.53.43:375][167]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap7385093C4EE2803168C6469CE84E8F7D.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.12.03-01.53.44:296][167]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap_BuiltData7B9DDE524C0B0FEEBBA06EA19393E4C5.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.12.03-01.53.44:315][167]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-01.53.44:315][167]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.12.03-01.53.44:315][167]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.12.03-01.56.46:335][434]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.03-01.56.46:343][434]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.03-01.56.46:658][472]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2022.12.03-01.56.46:658][472]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.03-01.56.51:505][ 32]LogContentBrowser: Attempting asset rename: NewFolder -> Assets
+[2022.12.03-01.56.55:065][322]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.12.03-01.56.55:086][322]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap8356D8594F66C6C47FD57992748329FD.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.12.03-01.56.56:015][322]LogSavePackage: Moving '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Saved/FirstPersonExampleMap_BuiltData20A1195347113D15833098B0D40F5C9F.tmp' to '../../../../../../Users/venat/OneDrive/Documents/GITHUB CLONE REPO/igm/igm/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2022.12.03-01.56.56:031][322]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.03-01.56.56:031][322]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2022.12.03-01.56.56:031][322]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
